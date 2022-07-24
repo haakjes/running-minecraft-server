@@ -1,0 +1,2 @@
+Use worldedit to select a region (type /wand, then left click position 1, then right click position two, then //extend vert
+Use wordguard to create the region (type /rg define <name>, /rg flag <name> interact allow, /rg add owner <name> <playername>)
